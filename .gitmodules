@@ -1,0 +1,3 @@
+[submodule "src/MqttAdapter"]
+	path = src/MqttAdapter
+	url = git@github.com:ve7mjc/MqttAdapter.git
