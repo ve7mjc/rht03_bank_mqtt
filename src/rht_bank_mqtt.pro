@@ -1,9 +1,8 @@
 QT -= gui
 
-CONFIG += c++11 console
+CONFIG += console #c++11
 CONFIG -= app_bundle
 
-# DEFINES += QT_BUILD_MQTT_LIB
 include(MqttAdapter\mqttadapter.pri)
 
 SOURCES += main.cpp \

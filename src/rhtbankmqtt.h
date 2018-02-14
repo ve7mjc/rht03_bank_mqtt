@@ -3,6 +3,7 @@
 
 #include <QObject>
 #include <QDebug>
+#include <QList>
 
 #include "mqttadapter.h"
 
